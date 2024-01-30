@@ -974,6 +974,9 @@
 		background:#fff;
 	}
 }
+.add-menu-right>img{
+	display: none;
+}
 .sticky-no .menu-bar {
     position: static !important;
 }
