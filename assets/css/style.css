@@ -963,8 +963,8 @@
 		text-align:center;
 	}
 	.rs-nav .menu-links .menu-logo img{
-		max-width: unset;
-		width: 130px;
+		max-width: 100%;
+		/* width: 130px; */
 		vertical-align: middle;
 	}
 	.rs-nav .menu-links .menu-logo a{
